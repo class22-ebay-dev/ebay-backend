@@ -1,4 +1,4 @@
-#List of users
+#List of Devops Engineers
 mofor
 Simon 
 Sylvie
@@ -7,3 +7,5 @@ Eroli
 Landmark
 Jessica
 Rudolf
+Chuka
+ken
